@@ -1,0 +1,3602 @@
+[
+  {
+    "caseId": "e9fc1e14-f5e0-474e-a9b4-ff94c4d85d25",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Utah",
+      "city": "Taft",
+      "street": "Mill Lane",
+      "houseNo": 71
+    },
+    "openedAt": "Tue Apr 24 2018 05:58:27 GMT+0000",
+    "updatedAt": "Wed May 02 2018 15:00:49 GMT+0000",
+    "description": "Magna et et enim occaecat velit ex deserunt laborum sit anim laboris anim.",
+    "requester": {
+      "firstName": "Salazar",
+      "lastName": "Lara",
+      "age": 29,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (938) 594-3050"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (898) 460-3666"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.424963",
+        "38.018084"
+      ]
+    }
+  },
+  {
+    "caseId": "5cc60953-bef2-46ac-b2e7-dccba5118b95",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "Mississippi",
+      "city": "Hendersonville",
+      "street": "Louis Place",
+      "houseNo": 45
+    },
+    "openedAt": "Wed Apr 25 2018 01:25:58 GMT+0000",
+    "updatedAt": "Thu Apr 05 2018 11:10:11 GMT+0000",
+    "description": "Non occaecat sint aute aliqua elit amet reprehenderit.",
+    "requester": {
+      "firstName": "Kathleen",
+      "lastName": "Harding",
+      "age": 17,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (987) 449-2551"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (937) 590-3335"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.112005",
+        "38.121201"
+      ]
+    }
+  },
+  {
+    "caseId": "e2f627f8-bbc8-4d37-b7db-25dad327aab5",
+    "type": "Uncollected Garbage",
+    "address": {
+      "state": "Palau",
+      "city": "Grahamtown",
+      "street": "Jerome Street",
+      "houseNo": 36
+    },
+    "openedAt": "Wed Apr 25 2018 20:09:53 GMT+0000",
+    "updatedAt": "Sun Apr 29 2018 21:34:48 GMT+0000",
+    "description": "Enim non consectetur ipsum non nisi sit est est pariatur laboris elit commodo ad Lorem.",
+    "requester": {
+      "firstName": "Kay",
+      "lastName": "Mayo",
+      "age": 37,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (856) 423-2101"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (893) 565-2493"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.894987",
+        "38.245176"
+      ]
+    }
+  },
+  {
+    "caseId": "c359ee50-e25a-45fe-a72b-0035876bbb85",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "Michigan",
+      "city": "Dragoon",
+      "street": "Hunts Lane",
+      "houseNo": 99
+    },
+    "openedAt": "Fri Apr 06 2018 19:38:36 GMT+0000",
+    "updatedAt": "Mon Apr 09 2018 17:53:26 GMT+0000",
+    "description": "Occaecat fugiat reprehenderit pariatur magna sunt nisi.",
+    "requester": {
+      "firstName": "Mccall",
+      "lastName": "Bowman",
+      "age": 36,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (919) 504-3486"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (889) 461-2637"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.114778",
+        "38.139159"
+      ]
+    }
+  },
+  {
+    "caseId": "b8cde3a3-eb33-4a6f-bf79-67aa9d6b8228",
+    "type": "Other",
+    "address": {
+      "state": "Maine",
+      "city": "Mathews",
+      "street": "Howard Alley",
+      "houseNo": 5
+    },
+    "openedAt": "Mon Apr 23 2018 04:11:56 GMT+0000",
+    "updatedAt": "Sat Apr 14 2018 21:08:32 GMT+0000",
+    "description": "Ad aute occaecat proident ad incididunt irure nulla sit.",
+    "requester": {
+      "firstName": "Herman",
+      "lastName": "Barrera",
+      "age": 18,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (884) 513-3559"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (857) 512-3691"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.45168",
+        "37.975835"
+      ]
+    }
+  },
+  {
+    "caseId": "c063c9f6-91bd-4632-a6fc-f20b7fcc5da9",
+    "type": "Dead Animal",
+    "address": {
+      "state": "Missouri",
+      "city": "Interlochen",
+      "street": "Stockholm Street",
+      "houseNo": 79
+    },
+    "openedAt": "Mon Apr 30 2018 16:45:35 GMT+0000",
+    "updatedAt": "Mon Apr 30 2018 16:07:02 GMT+0000",
+    "description": "Est nisi cupidatat quis sint Lorem est et ex.",
+    "requester": {
+      "firstName": "Mclean",
+      "lastName": "Lawrence",
+      "age": 40,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (833) 434-2193"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (930) 463-3621"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.504312",
+        "38.465361"
+      ]
+    }
+  },
+  {
+    "caseId": "b7cef8bc-bbea-48e4-a177-ee248d6ff53e",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Illinois",
+      "city": "Newkirk",
+      "street": "Branton Street",
+      "houseNo": 16
+    },
+    "openedAt": "Fri Apr 27 2018 01:06:53 GMT+0000",
+    "updatedAt": "Sun Apr 22 2018 17:40:07 GMT+0000",
+    "description": "Magna ut excepteur occaecat proident irure in irure non cupidatat exercitation.",
+    "requester": {
+      "firstName": "Lucille",
+      "lastName": "Aguirre",
+      "age": 19,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (800) 572-2251"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (899) 588-3778"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.784061",
+        "37.860248"
+      ]
+    }
+  },
+  {
+    "caseId": "9bc11e68-46ea-42a8-af21-266a831a9698",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "American Samoa",
+      "city": "Glenshaw",
+      "street": "Walker Court",
+      "houseNo": 88
+    },
+    "openedAt": "Fri Apr 06 2018 03:58:50 GMT+0000",
+    "updatedAt": "Tue May 01 2018 03:20:44 GMT+0000",
+    "description": "Excepteur proident occaecat reprehenderit nulla elit non qui do minim incididunt consequat pariatur deserunt ut.",
+    "requester": {
+      "firstName": "Turner",
+      "lastName": "Velez",
+      "age": 32,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (816) 531-3939"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (973) 517-3404"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.962012",
+        "38.362042"
+      ]
+    }
+  },
+  {
+    "caseId": "b86c623c-5b4f-4ef8-935c-b5e42cec3d9e",
+    "type": "Uncollected Garbage",
+    "address": {
+      "state": "Ohio",
+      "city": "Coinjock",
+      "street": "Winthrop Street",
+      "houseNo": 97
+    },
+    "openedAt": "Wed May 02 2018 09:46:42 GMT+0000",
+    "updatedAt": "Sun Apr 15 2018 00:24:15 GMT+0000",
+    "description": "Ex minim fugiat aliquip cillum nostrud esse nisi aliquip occaecat duis officia cupidatat minim enim.",
+    "requester": {
+      "firstName": "Copeland",
+      "lastName": "Mcintosh",
+      "age": 24,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (843) 488-3338"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (853) 470-3933"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.198043",
+        "38.45253"
+      ]
+    }
+  },
+  {
+    "caseId": "a8cffb8a-f514-4276-ae69-580fc4fc1e33",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Maryland",
+      "city": "Bethany",
+      "street": "Albany Avenue",
+      "houseNo": 47
+    },
+    "openedAt": "Sun Apr 22 2018 02:29:34 GMT+0000",
+    "updatedAt": "Sun Apr 22 2018 01:15:08 GMT+0000",
+    "description": "Nisi ad id incididunt dolore.",
+    "requester": {
+      "firstName": "Leonard",
+      "lastName": "Mcclure",
+      "age": 37,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (882) 512-3247"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (836) 551-2109"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.771846",
+        "38.516764"
+      ]
+    }
+  },
+  {
+    "caseId": "af752dcb-9b8a-4f42-9005-af124cd1cad0",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "Vermont",
+      "city": "Coventry",
+      "street": "Frank Court",
+      "houseNo": 12
+    },
+    "openedAt": "Thu Apr 26 2018 20:20:16 GMT+0000",
+    "updatedAt": "Sat Apr 21 2018 10:45:40 GMT+0000",
+    "description": "Veniam magna ipsum esse in aute excepteur ex cupidatat sint amet deserunt aute.",
+    "requester": {
+      "firstName": "Campos",
+      "lastName": "Bush",
+      "age": 40,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (927) 407-3521"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (811) 481-2059"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.412124",
+        "38.410944"
+      ]
+    }
+  },
+  {
+    "caseId": "e5943e3c-e6ff-4a73-8d86-1094793c17a6",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "Virginia",
+      "city": "Gibsonia",
+      "street": "Thatford Avenue",
+      "houseNo": 3
+    },
+    "openedAt": "Tue Apr 17 2018 01:33:42 GMT+0000",
+    "updatedAt": "Tue May 01 2018 21:47:50 GMT+0000",
+    "description": "Tempor minim qui qui culpa nisi.",
+    "requester": {
+      "firstName": "Lidia",
+      "lastName": "Stein",
+      "age": 17,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (956) 494-2268"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (909) 556-2069"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.207287",
+        "37.986965"
+      ]
+    }
+  },
+  {
+    "caseId": "1af2a33b-8104-421a-8b30-31cdd2d1688c",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Rhode Island",
+      "city": "Ribera",
+      "street": "Richards Street",
+      "houseNo": 67
+    },
+    "openedAt": "Tue Apr 24 2018 18:59:09 GMT+0000",
+    "updatedAt": "Tue Apr 17 2018 15:08:41 GMT+0000",
+    "description": "Laboris est minim ut ut veniam consequat ad proident consectetur cupidatat aliqua incididunt commodo aliqua.",
+    "requester": {
+      "firstName": "Mooney",
+      "lastName": "Garrison",
+      "age": 49,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (976) 438-2757"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (904) 475-3886"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.274678",
+        "38.34873"
+      ]
+    }
+  },
+  {
+    "caseId": "8930a94e-3911-42f6-b3e9-c3ef4e1f64df",
+    "type": "Other",
+    "address": {
+      "state": "Federated States Of Micronesia",
+      "city": "Norwood",
+      "street": "Clove Road",
+      "houseNo": 27
+    },
+    "openedAt": "Thu Apr 19 2018 23:55:24 GMT+0000",
+    "updatedAt": "Sun Apr 08 2018 18:00:19 GMT+0000",
+    "description": "In id non excepteur do reprehenderit esse nostrud ex.",
+    "requester": {
+      "firstName": "Haney",
+      "lastName": "Mcdowell",
+      "age": 45,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (817) 589-3254"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (841) 573-2067"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.920436",
+        "37.819836"
+      ]
+    }
+  },
+  {
+    "caseId": "22b61fed-dfbb-4023-88cc-670d47f799f4",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Delaware",
+      "city": "Camas",
+      "street": "Withers Street",
+      "houseNo": 5
+    },
+    "openedAt": "Wed May 02 2018 17:12:52 GMT+0000",
+    "updatedAt": "Wed May 02 2018 10:19:20 GMT+0000",
+    "description": "In non culpa ad eiusmod.",
+    "requester": {
+      "firstName": "Garrett",
+      "lastName": "Graves",
+      "age": 39,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (904) 544-2188"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (864) 572-3615"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.06746",
+        "37.948272"
+      ]
+    }
+  },
+  {
+    "caseId": "c06bdf7d-231f-4a51-91d9-4758db16e1e7",
+    "type": "Broken Street Lamp",
+    "address": {
+      "state": "North Carolina",
+      "city": "Shawmut",
+      "street": "Guernsey Street",
+      "houseNo": 35
+    },
+    "openedAt": "Sat Apr 28 2018 09:56:59 GMT+0000",
+    "updatedAt": "Sun Apr 15 2018 12:29:09 GMT+0000",
+    "description": "Do qui Lorem dolor fugiat ut duis id quis ex veniam culpa.",
+    "requester": {
+      "firstName": "Lamb",
+      "lastName": "Spears",
+      "age": 17,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (932) 580-3122"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (876) 429-3881"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.518384",
+        "38.38309"
+      ]
+    }
+  },
+  {
+    "caseId": "abb46560-b1ba-45d3-bfcf-bb0b19e5c222",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Colorado",
+      "city": "Stonybrook",
+      "street": "Minna Street",
+      "houseNo": 52
+    },
+    "openedAt": "Tue Apr 17 2018 03:44:12 GMT+0000",
+    "updatedAt": "Sat Apr 07 2018 21:08:08 GMT+0000",
+    "description": "Anim occaecat quis veniam ex Lorem officia in est.",
+    "requester": {
+      "firstName": "Alma",
+      "lastName": "Velazquez",
+      "age": 48,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (964) 456-2714"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (890) 570-3204"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.394491",
+        "38.135031"
+      ]
+    }
+  },
+  {
+    "caseId": "eaabd78f-dfd9-4972-b01a-bf7a9f5ae46d",
+    "type": "Other",
+    "address": {
+      "state": "Pennsylvania",
+      "city": "Herlong",
+      "street": "Dinsmore Place",
+      "houseNo": 78
+    },
+    "openedAt": "Mon Apr 16 2018 12:10:59 GMT+0000",
+    "updatedAt": "Thu Apr 12 2018 02:41:29 GMT+0000",
+    "description": "Consequat cillum in amet ex eiusmod ad Lorem commodo non tempor.",
+    "requester": {
+      "firstName": "Rush",
+      "lastName": "Robles",
+      "age": 45,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (877) 407-3241"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (853) 575-2483"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.453338",
+        "38.486872"
+      ]
+    }
+  },
+  {
+    "caseId": "ba225a24-76f7-4139-87c6-4db578181817",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "New Jersey",
+      "city": "Harborton",
+      "street": "Surf Avenue",
+      "houseNo": 24
+    },
+    "openedAt": "Mon Apr 30 2018 01:42:03 GMT+0000",
+    "updatedAt": "Thu Apr 05 2018 13:54:32 GMT+0000",
+    "description": "Amet elit incididunt laboris occaecat amet Lorem minim qui magna anim ut.",
+    "requester": {
+      "firstName": "Annie",
+      "lastName": "Lyons",
+      "age": 49,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (949) 412-3238"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (819) 543-3573"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.016296",
+        "38.578879"
+      ]
+    }
+  },
+  {
+    "caseId": "186d34f3-fca1-46e5-b90d-1987cb2543f5",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Marshall Islands",
+      "city": "Fairmount",
+      "street": "Granite Street",
+      "houseNo": 6
+    },
+    "openedAt": "Tue May 01 2018 15:52:14 GMT+0000",
+    "updatedAt": "Mon Apr 02 2018 18:10:59 GMT+0000",
+    "description": "Eiusmod ullamco aliquip cillum reprehenderit culpa amet ullamco dolore.",
+    "requester": {
+      "firstName": "Martha",
+      "lastName": "Fulton",
+      "age": 34,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (943) 455-2473"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (888) 592-3593"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.475711",
+        "37.875208"
+      ]
+    }
+  },
+  {
+    "caseId": "0a1f2cc6-eca6-4b97-993b-615d25bf58a9",
+    "type": "Other",
+    "address": {
+      "state": "South Dakota",
+      "city": "Kaka",
+      "street": "Kenilworth Place",
+      "houseNo": 39
+    },
+    "openedAt": "Thu Apr 12 2018 06:57:15 GMT+0000",
+    "updatedAt": "Mon Apr 09 2018 12:28:54 GMT+0000",
+    "description": "Do nostrud ullamco esse quis veniam qui Lorem aliqua tempor non nisi eu aute.",
+    "requester": {
+      "firstName": "Ofelia",
+      "lastName": "Sharp",
+      "age": 36,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (963) 572-2195"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (884) 498-3171"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.127485",
+        "38.087192"
+      ]
+    }
+  },
+  {
+    "caseId": "e3cac3af-db7e-463b-93a6-75339220c838",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "Texas",
+      "city": "Emison",
+      "street": "Lacon Court",
+      "houseNo": 76
+    },
+    "openedAt": "Wed May 02 2018 03:34:11 GMT+0000",
+    "updatedAt": "Tue Apr 03 2018 17:28:59 GMT+0000",
+    "description": "Ea enim ullamco ipsum ut dolore culpa ullamco sunt culpa magna sint duis consequat dolore.",
+    "requester": {
+      "firstName": "Jeanne",
+      "lastName": "Long",
+      "age": 20,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (972) 424-2067"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (937) 467-3999"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.010466",
+        "37.872324"
+      ]
+    }
+  },
+  {
+    "caseId": "c0e8a7af-452c-4ae1-a501-55ac2ed732b5",
+    "type": "Other",
+    "address": {
+      "state": "Guam",
+      "city": "Kimmell",
+      "street": "Grant Avenue",
+      "houseNo": 65
+    },
+    "openedAt": "Fri Apr 20 2018 16:21:56 GMT+0000",
+    "updatedAt": "Mon Apr 16 2018 13:15:36 GMT+0000",
+    "description": "Aliqua pariatur laboris incididunt nulla mollit Lorem nulla ipsum nulla sint culpa ad.",
+    "requester": {
+      "firstName": "Lydia",
+      "lastName": "Mccoy",
+      "age": 40,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (979) 507-3701"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (859) 423-2980"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.688943",
+        "38.171006"
+      ]
+    }
+  },
+  {
+    "caseId": "afe88577-afde-4a31-9970-fcf458ecf0ba",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Georgia",
+      "city": "Hampstead",
+      "street": "Campus Place",
+      "houseNo": 54
+    },
+    "openedAt": "Wed Apr 11 2018 10:23:35 GMT+0000",
+    "updatedAt": "Thu Apr 19 2018 17:01:59 GMT+0000",
+    "description": "Aliqua mollit id deserunt ea ut minim aliqua labore reprehenderit nulla voluptate duis ullamco.",
+    "requester": {
+      "firstName": "Olivia",
+      "lastName": "David",
+      "age": 45,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (942) 474-2640"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (949) 487-2805"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.762264",
+        "37.9684"
+      ]
+    }
+  },
+  {
+    "caseId": "b6e75795-dc19-4793-b75f-5f9fb3f02607",
+    "type": "Other",
+    "address": {
+      "state": "Connecticut",
+      "city": "Statenville",
+      "street": "Harden Street",
+      "houseNo": 67
+    },
+    "openedAt": "Wed Apr 18 2018 18:47:49 GMT+0000",
+    "updatedAt": "Fri Apr 06 2018 19:15:02 GMT+0000",
+    "description": "Culpa cillum quis elit Lorem aute eiusmod.",
+    "requester": {
+      "firstName": "Perkins",
+      "lastName": "Velasquez",
+      "age": 19,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (975) 581-3431"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (931) 566-2596"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.228687",
+        "38.081154"
+      ]
+    }
+  },
+  {
+    "caseId": "b25bb052-9ee7-4de1-99fc-18d5fc1aad31",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "South Carolina",
+      "city": "Terlingua",
+      "street": "Ludlam Place",
+      "houseNo": 72
+    },
+    "openedAt": "Sun Apr 08 2018 20:56:57 GMT+0000",
+    "updatedAt": "Sun Apr 15 2018 13:46:28 GMT+0000",
+    "description": "Laborum labore labore fugiat sunt enim nostrud eu ex ad esse irure.",
+    "requester": {
+      "firstName": "Parsons",
+      "lastName": "Jacobson",
+      "age": 50,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (946) 409-2369"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (991) 550-2456"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.551694",
+        "38.592742"
+      ]
+    }
+  },
+  {
+    "caseId": "148eff34-366e-40c0-a75d-02b07f3f1f81",
+    "type": "Other",
+    "address": {
+      "state": "Arizona",
+      "city": "Newry",
+      "street": "Dictum Court",
+      "houseNo": 82
+    },
+    "openedAt": "Mon Apr 30 2018 04:11:11 GMT+0000",
+    "updatedAt": "Mon Apr 02 2018 23:27:09 GMT+0000",
+    "description": "Commodo id dolore esse sint Lorem fugiat cillum fugiat aute commodo consectetur culpa ad nisi.",
+    "requester": {
+      "firstName": "Hinton",
+      "lastName": "Garza",
+      "age": 48,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (885) 425-3024"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (958) 593-3035"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.164563",
+        "38.574491"
+      ]
+    }
+  },
+  {
+    "caseId": "9f75120d-3e48-4dff-bbaa-429694fde1e5",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Kansas",
+      "city": "Callaghan",
+      "street": "Debevoise Street",
+      "houseNo": 98
+    },
+    "openedAt": "Tue May 01 2018 21:11:03 GMT+0000",
+    "updatedAt": "Sun Apr 15 2018 19:01:42 GMT+0000",
+    "description": "Ullamco sit duis ipsum veniam.",
+    "requester": {
+      "firstName": "Weaver",
+      "lastName": "Valencia",
+      "age": 35,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (956) 407-2752"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (890) 410-2170"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.315185",
+        "38.381832"
+      ]
+    }
+  },
+  {
+    "caseId": "2ac50c51-a83c-4784-81ad-3736376be792",
+    "type": "Broken Street Lamp",
+    "address": {
+      "state": "Kentucky",
+      "city": "Graball",
+      "street": "Lois Avenue",
+      "houseNo": 27
+    },
+    "openedAt": "Thu Apr 19 2018 06:49:27 GMT+0000",
+    "updatedAt": "Wed May 02 2018 22:45:16 GMT+0000",
+    "description": "Aute ex incididunt pariatur enim.",
+    "requester": {
+      "firstName": "Poole",
+      "lastName": "Joyner",
+      "age": 22,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (882) 566-2449"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (998) 462-3572"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.433939",
+        "38.540524"
+      ]
+    }
+  },
+  {
+    "caseId": "77a44c68-6bd3-4c4e-a31d-bed874e15bf8",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Wisconsin",
+      "city": "Barronett",
+      "street": "Adelphi Street",
+      "houseNo": 38
+    },
+    "openedAt": "Tue May 01 2018 15:27:24 GMT+0000",
+    "updatedAt": "Fri Apr 06 2018 01:39:34 GMT+0000",
+    "description": "Ipsum occaecat ea ea officia enim ullamco esse ullamco ea dolore dolore aliquip fugiat.",
+    "requester": {
+      "firstName": "Elba",
+      "lastName": "Jimenez",
+      "age": 36,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (883) 441-2454"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (952) 575-3455"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.605224",
+        "38.049504"
+      ]
+    }
+  },
+  {
+    "caseId": "7c005cd6-b5a5-423f-a57c-4a8a45002452",
+    "type": "Missing Sign",
+    "address": {
+      "state": "New Mexico",
+      "city": "Hoehne",
+      "street": "Hopkins Street",
+      "houseNo": 62
+    },
+    "openedAt": "Tue Apr 17 2018 09:33:20 GMT+0000",
+    "updatedAt": "Sun Apr 22 2018 10:08:31 GMT+0000",
+    "description": "Id mollit cupidatat in anim mollit aliquip dolore officia dolore dolore sint proident cillum enim.",
+    "requester": {
+      "firstName": "Esther",
+      "lastName": "Conway",
+      "age": 16,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (982) 531-2635"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (996) 445-3163"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.465543",
+        "38.318597"
+      ]
+    }
+  },
+  {
+    "caseId": "8e947587-f4c2-451f-a9c6-1a72cc7f31da",
+    "type": "Missing Sign",
+    "address": {
+      "state": "North Dakota",
+      "city": "Floriston",
+      "street": "Maple Street",
+      "houseNo": 26
+    },
+    "openedAt": "Mon Apr 02 2018 13:26:02 GMT+0000",
+    "updatedAt": "Tue May 01 2018 15:36:36 GMT+0000",
+    "description": "Commodo enim proident laboris qui ullamco.",
+    "requester": {
+      "firstName": "Bridget",
+      "lastName": "Middleton",
+      "age": 38,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (844) 523-2392"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (925) 402-3035"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.449025",
+        "38.083691"
+      ]
+    }
+  },
+  {
+    "caseId": "f8a2f065-fd4a-4bc5-a241-6d258c4fa55f",
+    "type": "Other",
+    "address": {
+      "state": "Louisiana",
+      "city": "Townsend",
+      "street": "Irving Avenue",
+      "houseNo": 14
+    },
+    "openedAt": "Sat Apr 07 2018 07:01:26 GMT+0000",
+    "updatedAt": "Mon Apr 30 2018 10:26:05 GMT+0000",
+    "description": "Esse adipisicing aliquip adipisicing voluptate eu laboris.",
+    "requester": {
+      "firstName": "Cooper",
+      "lastName": "Hendricks",
+      "age": 16,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (979) 437-3117"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (902) 475-2256"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.366951",
+        "38.518681"
+      ]
+    }
+  },
+  {
+    "caseId": "21df77f6-8039-4d89-81de-e00495271b8a",
+    "type": "Other",
+    "address": {
+      "state": "Oregon",
+      "city": "Sharon",
+      "street": "Strong Place",
+      "houseNo": 2
+    },
+    "openedAt": "Fri Apr 27 2018 00:32:55 GMT+0000",
+    "updatedAt": "Thu Apr 12 2018 23:23:39 GMT+0000",
+    "description": "Lorem ut laborum ad anim cillum velit eu pariatur.",
+    "requester": {
+      "firstName": "Tia",
+      "lastName": "Hardin",
+      "age": 18,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (934) 515-2442"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (969) 403-3998"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.721804",
+        "38.323775"
+      ]
+    }
+  },
+  {
+    "caseId": "2012d4d6-8327-4863-8ce1-24e5fb9a1256",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "Alabama",
+      "city": "Gerton",
+      "street": "College Place",
+      "houseNo": 19
+    },
+    "openedAt": "Wed Apr 25 2018 16:38:57 GMT+0000",
+    "updatedAt": "Thu Apr 12 2018 23:00:18 GMT+0000",
+    "description": "In velit reprehenderit reprehenderit ex consectetur aliquip fugiat velit in minim laboris consectetur.",
+    "requester": {
+      "firstName": "Vaughan",
+      "lastName": "Nielsen",
+      "age": 31,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (861) 497-2828"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (816) 582-3463"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.637754",
+        "38.358733"
+      ]
+    }
+  },
+  {
+    "caseId": "7e4e5447-6779-44fb-80eb-359466e4c6e6",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "West Virginia",
+      "city": "Motley",
+      "street": "Oceanic Avenue",
+      "houseNo": 60
+    },
+    "openedAt": "Sun Apr 15 2018 10:18:26 GMT+0000",
+    "updatedAt": "Thu Apr 05 2018 10:13:29 GMT+0000",
+    "description": "Amet reprehenderit officia ad eu proident deserunt.",
+    "requester": {
+      "firstName": "Maureen",
+      "lastName": "Jackson",
+      "age": 50,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (840) 553-2775"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (998) 540-3335"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.742267",
+        "38.21333"
+      ]
+    }
+  },
+  {
+    "caseId": "078e9770-85e1-4fb1-bca4-2844531d25dd",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "Florida",
+      "city": "Canoochee",
+      "street": "Perry Terrace",
+      "houseNo": 42
+    },
+    "openedAt": "Tue Apr 03 2018 15:33:13 GMT+0000",
+    "updatedAt": "Sat Apr 14 2018 16:15:11 GMT+0000",
+    "description": "Voluptate eu velit anim velit.",
+    "requester": {
+      "firstName": "Morgan",
+      "lastName": "Glover",
+      "age": 46,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (862) 564-3433"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (927) 529-3877"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.803907",
+        "37.96756"
+      ]
+    }
+  },
+  {
+    "caseId": "c1885116-f156-4d4c-a03b-008e9fb3b2cc",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Nebraska",
+      "city": "Trinway",
+      "street": "Saratoga Avenue",
+      "houseNo": 79
+    },
+    "openedAt": "Mon Apr 16 2018 11:08:08 GMT+0000",
+    "updatedAt": "Wed Apr 25 2018 13:36:11 GMT+0000",
+    "description": "Anim do dolore adipisicing culpa est reprehenderit quis cupidatat labore aliqua.",
+    "requester": {
+      "firstName": "Molina",
+      "lastName": "Solomon",
+      "age": 22,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (919) 463-3322"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (841) 453-2683"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.083578",
+        "37.860543"
+      ]
+    }
+  },
+  {
+    "caseId": "59d85001-7dc0-437a-b766-edff0c557787",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Minnesota",
+      "city": "Bedias",
+      "street": "Estate Road",
+      "houseNo": 89
+    },
+    "openedAt": "Wed Apr 04 2018 17:30:29 GMT+0000",
+    "updatedAt": "Sun Apr 29 2018 05:52:10 GMT+0000",
+    "description": "Ex elit voluptate esse proident exercitation.",
+    "requester": {
+      "firstName": "Mcclure",
+      "lastName": "Wells",
+      "age": 21,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (836) 462-2429"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (911) 585-2280"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.592195",
+        "37.977777"
+      ]
+    }
+  },
+  {
+    "caseId": "051fc96c-9573-4abe-8525-9283b8d577f5",
+    "type": "Broken Street Lamp",
+    "address": {
+      "state": "Arkansas",
+      "city": "Sanborn",
+      "street": "Church Avenue",
+      "houseNo": 63
+    },
+    "openedAt": "Tue Apr 03 2018 15:40:12 GMT+0000",
+    "updatedAt": "Mon Apr 09 2018 04:16:00 GMT+0000",
+    "description": "Esse qui nulla nostrud aute nulla in consectetur amet mollit ut ea aliquip elit dolor.",
+    "requester": {
+      "firstName": "Maggie",
+      "lastName": "Buck",
+      "age": 15,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (893) 493-2597"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (960) 495-2793"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.412466",
+        "38.034649"
+      ]
+    }
+  },
+  {
+    "caseId": "65b86b46-f28b-41ff-b78c-8948120688c7",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Tennessee",
+      "city": "Jennings",
+      "street": "Ridgecrest Terrace",
+      "houseNo": 100
+    },
+    "openedAt": "Sat Apr 14 2018 22:42:39 GMT+0000",
+    "updatedAt": "Fri Apr 06 2018 07:56:03 GMT+0000",
+    "description": "Veniam duis amet deserunt duis amet reprehenderit proident ut duis ea eiusmod nostrud.",
+    "requester": {
+      "firstName": "Kidd",
+      "lastName": "Mack",
+      "age": 17,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (895) 480-2437"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (900) 493-3882"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.021915",
+        "38.12367"
+      ]
+    }
+  },
+  {
+    "caseId": "c28bce00-bbdc-4447-a1c9-91c626605f72",
+    "type": "Other",
+    "address": {
+      "state": "California",
+      "city": "Gilgo",
+      "street": "Madoc Avenue",
+      "houseNo": 22
+    },
+    "openedAt": "Mon Apr 02 2018 11:36:49 GMT+0000",
+    "updatedAt": "Sat Apr 14 2018 03:01:05 GMT+0000",
+    "description": "Mollit amet dolor ut ipsum in et sunt laborum est esse.",
+    "requester": {
+      "firstName": "Johns",
+      "lastName": "Sutton",
+      "age": 32,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (808) 575-3121"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (818) 582-2081"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.977927",
+        "38.560032"
+      ]
+    }
+  },
+  {
+    "caseId": "d7749212-ecb8-46ef-8aa8-477ed284a41a",
+    "type": "Uncollected Garbage",
+    "address": {
+      "state": "Massachusetts",
+      "city": "Adamstown",
+      "street": "Homecrest Court",
+      "houseNo": 5
+    },
+    "openedAt": "Tue Apr 10 2018 06:44:13 GMT+0000",
+    "updatedAt": "Wed Apr 18 2018 20:57:40 GMT+0000",
+    "description": "Fugiat aute ea tempor in reprehenderit et excepteur dolore qui irure sit cupidatat id ipsum.",
+    "requester": {
+      "firstName": "Campbell",
+      "lastName": "Armstrong",
+      "age": 15,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (901) 585-2035"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (938) 534-2692"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.519376",
+        "38.172863"
+      ]
+    }
+  },
+  {
+    "caseId": "0b694be0-0d72-439c-a163-3e69eaa83947",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "Northern Mariana Islands",
+      "city": "Allentown",
+      "street": "Montauk Court",
+      "houseNo": 76
+    },
+    "openedAt": "Thu Apr 19 2018 03:06:26 GMT+0000",
+    "updatedAt": "Wed Apr 25 2018 20:57:09 GMT+0000",
+    "description": "Dolore eu consequat sunt excepteur pariatur mollit anim occaecat dolor nisi non.",
+    "requester": {
+      "firstName": "Dianna",
+      "lastName": "Charles",
+      "age": 21,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (897) 485-3109"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (855) 478-3444"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.086219",
+        "37.833881"
+      ]
+    }
+  },
+  {
+    "caseId": "7a2c583f-fc0d-4fd1-8317-013d91c24af5",
+    "type": "Other",
+    "address": {
+      "state": "New York",
+      "city": "Jardine",
+      "street": "Tillary Street",
+      "houseNo": 50
+    },
+    "openedAt": "Sun Apr 15 2018 20:27:25 GMT+0000",
+    "updatedAt": "Wed May 02 2018 08:06:29 GMT+0000",
+    "description": "Exercitation ad officia adipisicing commodo.",
+    "requester": {
+      "firstName": "Antoinette",
+      "lastName": "Cain",
+      "age": 15,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (815) 456-3696"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (806) 499-2415"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.773949",
+        "38.479779"
+      ]
+    }
+  },
+  {
+    "caseId": "57a8b162-fbee-48d0-a18d-94d5209746fa",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "New Hampshire",
+      "city": "Eagleville",
+      "street": "Jewel Street",
+      "houseNo": 73
+    },
+    "openedAt": "Fri Apr 20 2018 13:29:03 GMT+0000",
+    "updatedAt": "Sun Apr 29 2018 13:57:34 GMT+0000",
+    "description": "Ut consequat exercitation magna Lorem nisi exercitation cillum aute id officia.",
+    "requester": {
+      "firstName": "Tiffany",
+      "lastName": "James",
+      "age": 36,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (916) 572-2793"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (846) 502-2344"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.62035",
+        "37.863976"
+      ]
+    }
+  },
+  {
+    "caseId": "d2ee9aab-e9cf-4d10-98f4-b68951625fee",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "Nevada",
+      "city": "Topaz",
+      "street": "Jaffray Street",
+      "houseNo": 13
+    },
+    "openedAt": "Sun Apr 22 2018 11:14:25 GMT+0000",
+    "updatedAt": "Sat Apr 07 2018 01:33:55 GMT+0000",
+    "description": "Pariatur cillum excepteur minim ullamco tempor officia magna laboris.",
+    "requester": {
+      "firstName": "Horne",
+      "lastName": "Buckner",
+      "age": 28,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (967) 565-2467"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (867) 491-3006"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.475983",
+        "38.240484"
+      ]
+    }
+  },
+  {
+    "caseId": "748003c7-3ae0-449b-bece-f1764d230cae",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "Puerto Rico",
+      "city": "Alfarata",
+      "street": "Lefferts Avenue",
+      "houseNo": 74
+    },
+    "openedAt": "Mon Apr 16 2018 05:25:18 GMT+0000",
+    "updatedAt": "Fri Apr 13 2018 15:42:24 GMT+0000",
+    "description": "Laborum Lorem qui minim nostrud sint voluptate pariatur officia aute magna occaecat occaecat occaecat amet.",
+    "requester": {
+      "firstName": "Tran",
+      "lastName": "Osborne",
+      "age": 25,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (984) 573-2758"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (844) 449-3960"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.532168",
+        "37.839559"
+      ]
+    }
+  },
+  {
+    "caseId": "0e5ca06e-4937-4da8-8853-b247947ec9b9",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "Montana",
+      "city": "Summertown",
+      "street": "Lenox Road",
+      "houseNo": 44
+    },
+    "openedAt": "Tue Apr 24 2018 15:19:18 GMT+0000",
+    "updatedAt": "Tue Apr 24 2018 17:15:12 GMT+0000",
+    "description": "Incididunt exercitation ex esse ad quis officia adipisicing cupidatat dolore sint.",
+    "requester": {
+      "firstName": "Howell",
+      "lastName": "Bailey",
+      "age": 30,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (876) 421-3250"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (830) 421-3563"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.932708",
+        "37.886224"
+      ]
+    }
+  },
+  {
+    "caseId": "1547743a-b0fc-4689-a42b-73afaa37bfbe",
+    "type": "Other",
+    "address": {
+      "state": "Alaska",
+      "city": "Mayfair",
+      "street": "Mersereau Court",
+      "houseNo": 3
+    },
+    "openedAt": "Sun Apr 22 2018 06:22:13 GMT+0000",
+    "updatedAt": "Sun Apr 08 2018 06:25:54 GMT+0000",
+    "description": "Elit in ad duis et ad quis irure esse sint cupidatat nulla.",
+    "requester": {
+      "firstName": "Lindsay",
+      "lastName": "Odom",
+      "age": 16,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (900) 451-2909"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (990) 576-2103"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.225431",
+        "37.850354"
+      ]
+    }
+  },
+  {
+    "caseId": "ce16cb48-4c27-4b2d-bb9b-dd80df6c0f7d",
+    "type": "Other",
+    "address": {
+      "state": "Oklahoma",
+      "city": "Cazadero",
+      "street": "Heath Place",
+      "houseNo": 55
+    },
+    "openedAt": "Fri Apr 27 2018 11:47:27 GMT+0000",
+    "updatedAt": "Thu Apr 26 2018 20:08:53 GMT+0000",
+    "description": "Dolore duis consectetur nostrud non id incididunt pariatur.",
+    "requester": {
+      "firstName": "Ronda",
+      "lastName": "Foster",
+      "age": 46,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (972) 502-2058"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (822) 524-2341"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.430203",
+        "38.589148"
+      ]
+    }
+  },
+  {
+    "caseId": "455ab309-7a0d-42c3-b85e-4b06267ff349",
+    "type": "Broken Street Lamp",
+    "address": {
+      "state": "Washington",
+      "city": "Madaket",
+      "street": "Veronica Place",
+      "houseNo": 23
+    },
+    "openedAt": "Sun Apr 08 2018 13:19:17 GMT+0000",
+    "updatedAt": "Fri Apr 06 2018 04:03:27 GMT+0000",
+    "description": "Labore enim exercitation ad aliqua commodo minim occaecat proident ipsum velit.",
+    "requester": {
+      "firstName": "Edith",
+      "lastName": "Gillespie",
+      "age": 50,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (903) 401-3639"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (853) 475-3114"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.21534",
+        "38.068887"
+      ]
+    }
+  },
+  {
+    "caseId": "cec575c7-2029-43e6-a6e1-6eda0685ee3a",
+    "type": "Open Fire Hydrant",
+    "address": {
+      "state": "District Of Columbia",
+      "city": "Roberts",
+      "street": "Cadman Plaza",
+      "houseNo": 10
+    },
+    "openedAt": "Wed Apr 18 2018 11:15:13 GMT+0000",
+    "updatedAt": "Mon Apr 02 2018 10:02:21 GMT+0000",
+    "description": "Laborum culpa voluptate elit elit sint eiusmod dolore aute in labore ea incididunt.",
+    "requester": {
+      "firstName": "Deana",
+      "lastName": "Sweet",
+      "age": 41,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (973) 580-3736"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (996) 558-2595"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.792555",
+        "37.908947"
+      ]
+    }
+  },
+  {
+    "caseId": "2474fb30-1a2f-433d-84a3-6ea70e549eeb",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "Indiana",
+      "city": "Ruckersville",
+      "street": "Cropsey Avenue",
+      "houseNo": 4
+    },
+    "openedAt": "Thu Apr 05 2018 11:57:55 GMT+0000",
+    "updatedAt": "Sat Apr 07 2018 15:07:01 GMT+0000",
+    "description": "Dolor consectetur quis reprehenderit laborum velit elit aliquip pariatur ut anim nulla duis.",
+    "requester": {
+      "firstName": "Suzette",
+      "lastName": "Douglas",
+      "age": 48,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (821) 401-3427"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (956) 479-2500"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.576748",
+        "38.260654"
+      ]
+    }
+  },
+  {
+    "caseId": "cf581987-6bef-4610-8eca-757d4d188fd0",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "Virgin Islands",
+      "city": "Bridgetown",
+      "street": "Elm Place",
+      "houseNo": 38
+    },
+    "openedAt": "Fri Apr 20 2018 12:02:46 GMT+0000",
+    "updatedAt": "Wed Apr 11 2018 16:52:58 GMT+0000",
+    "description": "Mollit dolor adipisicing reprehenderit excepteur eu minim sint consequat occaecat consectetur reprehenderit deserunt.",
+    "requester": {
+      "firstName": "Tanisha",
+      "lastName": "Richmond",
+      "age": 22,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (836) 535-3647"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (871) 509-3200"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.43266",
+        "37.8499"
+      ]
+    }
+  },
+  {
+    "caseId": "4723dc4f-ae6a-4cb2-9ed6-360897e3790c",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Iowa",
+      "city": "Blue",
+      "street": "Concord Street",
+      "houseNo": 15
+    },
+    "openedAt": "Sun Apr 01 2018 07:56:38 GMT+0000",
+    "updatedAt": "Wed Apr 11 2018 11:35:42 GMT+0000",
+    "description": "Lorem aliquip culpa labore consequat dolor minim laboris.",
+    "requester": {
+      "firstName": "Fulton",
+      "lastName": "Mays",
+      "age": 17,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (834) 506-3803"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (886) 417-3498"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.440731",
+        "38.157085"
+      ]
+    }
+  },
+  {
+    "caseId": "c52b72ea-93b3-4ed1-82ec-61a1fc996e1e",
+    "type": "Other",
+    "address": {
+      "state": "Wyoming",
+      "city": "Haring",
+      "street": "Bond Street",
+      "houseNo": 67
+    },
+    "openedAt": "Mon Apr 09 2018 01:21:52 GMT+0000",
+    "updatedAt": "Tue Apr 10 2018 00:53:34 GMT+0000",
+    "description": "Mollit eiusmod dolore qui incididunt minim adipisicing ad occaecat irure sint enim.",
+    "requester": {
+      "firstName": "Sutton",
+      "lastName": "Richards",
+      "age": 47,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (974) 411-3052"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (862) 426-2578"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.519249",
+        "38.101852"
+      ]
+    }
+  },
+  {
+    "caseId": "f94e8b0b-753c-421f-a288-9cbf779a56ad",
+    "type": "Other",
+    "address": {
+      "state": "Idaho",
+      "city": "Newcastle",
+      "street": "Diamond Street",
+      "houseNo": 54
+    },
+    "openedAt": "Sun Apr 29 2018 08:31:43 GMT+0000",
+    "updatedAt": "Sun Apr 22 2018 03:15:28 GMT+0000",
+    "description": "Laborum consectetur enim aute ad ullamco enim est.",
+    "requester": {
+      "firstName": "Orr",
+      "lastName": "Sandoval",
+      "age": 18,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (803) 471-2187"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (830) 507-2641"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.833182",
+        "38.161951"
+      ]
+    }
+  },
+  {
+    "caseId": "00eb1f45-df5d-4a24-82f9-60c2a08d1797",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "Utah",
+      "city": "Brewster",
+      "street": "Kensington Walk",
+      "houseNo": 44
+    },
+    "openedAt": "Tue Apr 17 2018 19:20:32 GMT+0000",
+    "updatedAt": "Thu Apr 19 2018 03:40:37 GMT+0000",
+    "description": "Duis eu nostrud dolore eiusmod labore pariatur cupidatat.",
+    "requester": {
+      "firstName": "Geneva",
+      "lastName": "Howe",
+      "age": 20,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (924) 465-2647"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (933) 510-2399"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.640831",
+        "37.911566"
+      ]
+    }
+  },
+  {
+    "caseId": "aa0c9643-de30-46c9-b3ec-ade55e5cde44",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Mississippi",
+      "city": "Day",
+      "street": "Lake Place",
+      "houseNo": 8
+    },
+    "openedAt": "Mon Apr 09 2018 06:02:51 GMT+0000",
+    "updatedAt": "Thu Apr 12 2018 05:53:33 GMT+0000",
+    "description": "Lorem occaecat adipisicing esse culpa sit ex non.",
+    "requester": {
+      "firstName": "Melva",
+      "lastName": "Brady",
+      "age": 28,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (819) 494-3634"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (957) 557-2223"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.821546",
+        "38.411081"
+      ]
+    }
+  },
+  {
+    "caseId": "f830adbc-2753-4759-86e7-c654d815ee06",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Palau",
+      "city": "Itmann",
+      "street": "Tapscott Street",
+      "houseNo": 95
+    },
+    "openedAt": "Mon Apr 23 2018 04:29:52 GMT+0000",
+    "updatedAt": "Mon Apr 23 2018 22:40:53 GMT+0000",
+    "description": "Id aute occaecat esse fugiat est nostrud.",
+    "requester": {
+      "firstName": "Lacy",
+      "lastName": "Green",
+      "age": 34,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (858) 489-2141"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (965) 509-3880"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.040182",
+        "38.120188"
+      ]
+    }
+  },
+  {
+    "caseId": "104904ea-e127-4315-9738-341f53b9e58d",
+    "type": "Other",
+    "address": {
+      "state": "Michigan",
+      "city": "Fruitdale",
+      "street": "Hemlock Street",
+      "houseNo": 31
+    },
+    "openedAt": "Sat Apr 14 2018 10:42:23 GMT+0000",
+    "updatedAt": "Fri Apr 27 2018 07:39:55 GMT+0000",
+    "description": "Laboris incididunt quis esse veniam.",
+    "requester": {
+      "firstName": "Hope",
+      "lastName": "Dillon",
+      "age": 38,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (898) 570-3982"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (869) 491-3189"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.448745",
+        "38.455227"
+      ]
+    }
+  },
+  {
+    "caseId": "953ffebe-70ea-4769-ba2b-d4ab543236d7",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Maine",
+      "city": "Wanamie",
+      "street": "Norwood Avenue",
+      "houseNo": 91
+    },
+    "openedAt": "Thu Apr 26 2018 12:20:43 GMT+0000",
+    "updatedAt": "Fri Apr 06 2018 22:54:12 GMT+0000",
+    "description": "Anim reprehenderit incididunt id non ut ullamco voluptate deserunt.",
+    "requester": {
+      "firstName": "Haynes",
+      "lastName": "Mcmillan",
+      "age": 40,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (913) 576-2226"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (828) 515-3150"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.640985",
+        "38.013143"
+      ]
+    }
+  },
+  {
+    "caseId": "d0215d86-ddfd-4cce-8ea1-ac2e42f31677",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "Missouri",
+      "city": "Beyerville",
+      "street": "Division Place",
+      "houseNo": 64
+    },
+    "openedAt": "Mon Apr 30 2018 03:18:02 GMT+0000",
+    "updatedAt": "Thu Apr 19 2018 16:58:02 GMT+0000",
+    "description": "Ut ex cupidatat dolor id amet minim amet.",
+    "requester": {
+      "firstName": "Cash",
+      "lastName": "Sosa",
+      "age": 46,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (993) 597-3011"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (886) 438-3872"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.177834",
+        "38.20893"
+      ]
+    }
+  },
+  {
+    "caseId": "38681741-aca1-4b0c-bf3f-5e4e6e662279",
+    "type": "Other",
+    "address": {
+      "state": "Illinois",
+      "city": "Sisquoc",
+      "street": "Chester Street",
+      "houseNo": 4
+    },
+    "openedAt": "Mon Apr 16 2018 20:57:30 GMT+0000",
+    "updatedAt": "Tue Apr 10 2018 17:58:58 GMT+0000",
+    "description": "Incididunt culpa ex culpa sit eiusmod adipisicing exercitation deserunt consequat aliquip commodo esse.",
+    "requester": {
+      "firstName": "Kane",
+      "lastName": "Kelly",
+      "age": 19,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (934) 446-2930"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (972) 518-3085"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.665661",
+        "37.819262"
+      ]
+    }
+  },
+  {
+    "caseId": "58a41749-3a1e-4487-8530-e191b39aec68",
+    "type": "Dead Animal",
+    "address": {
+      "state": "American Samoa",
+      "city": "Oberlin",
+      "street": "Seba Avenue",
+      "houseNo": 66
+    },
+    "openedAt": "Sun Apr 22 2018 01:44:48 GMT+0000",
+    "updatedAt": "Sun Apr 29 2018 03:01:46 GMT+0000",
+    "description": "Est qui dolore deserunt pariatur adipisicing anim amet do officia occaecat amet ad aliqua fugiat.",
+    "requester": {
+      "firstName": "Greene",
+      "lastName": "Klein",
+      "age": 19,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (874) 511-3762"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (969) 486-3396"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.525592",
+        "38.39371"
+      ]
+    }
+  },
+  {
+    "caseId": "8754bab2-fdc4-4bd2-bbac-f006ca2eb528",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Ohio",
+      "city": "Celeryville",
+      "street": "Carlton Avenue",
+      "houseNo": 88
+    },
+    "openedAt": "Tue Apr 17 2018 19:08:10 GMT+0000",
+    "updatedAt": "Sat Apr 28 2018 03:14:31 GMT+0000",
+    "description": "Laboris officia pariatur voluptate reprehenderit tempor nisi dolore duis consequat ex adipisicing culpa.",
+    "requester": {
+      "firstName": "Verna",
+      "lastName": "Aguilar",
+      "age": 15,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (996) 571-3813"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (905) 443-3607"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.43935",
+        "38.304685"
+      ]
+    }
+  },
+  {
+    "caseId": "aee5e77d-7465-49ad-8c38-7dca324fa335",
+    "type": "Other",
+    "address": {
+      "state": "Maryland",
+      "city": "Croom",
+      "street": "Ruby Street",
+      "houseNo": 49
+    },
+    "openedAt": "Tue Apr 03 2018 15:12:35 GMT+0000",
+    "updatedAt": "Tue May 01 2018 01:15:59 GMT+0000",
+    "description": "Consectetur amet nostrud enim eiusmod nisi cupidatat.",
+    "requester": {
+      "firstName": "Althea",
+      "lastName": "Alston",
+      "age": 49,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (819) 467-2734"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (996) 543-3928"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.420225",
+        "38.098095"
+      ]
+    }
+  },
+  {
+    "caseId": "d6914c9e-29b0-4428-8ac3-1121074d95ef",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Vermont",
+      "city": "Grandview",
+      "street": "Turnbull Avenue",
+      "houseNo": 93
+    },
+    "openedAt": "Mon Apr 09 2018 02:28:57 GMT+0000",
+    "updatedAt": "Wed May 02 2018 12:04:33 GMT+0000",
+    "description": "Irure Lorem amet labore ipsum sit occaecat nostrud culpa in.",
+    "requester": {
+      "firstName": "Mercedes",
+      "lastName": "Anthony",
+      "age": 23,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (862) 493-2926"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (947) 418-3607"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.572383",
+        "38.102369"
+      ]
+    }
+  },
+  {
+    "caseId": "82be30c4-ed45-4ebb-bf42-e61c0d32a202",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Virginia",
+      "city": "Rossmore",
+      "street": "Navy Walk",
+      "houseNo": 24
+    },
+    "openedAt": "Tue Apr 17 2018 22:40:45 GMT+0000",
+    "updatedAt": "Tue Apr 24 2018 17:13:12 GMT+0000",
+    "description": "Ullamco incididunt dolore aute nostrud tempor do et in dolor proident eu.",
+    "requester": {
+      "firstName": "Woods",
+      "lastName": "Santana",
+      "age": 34,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (848) 549-2416"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (917) 531-2123"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.295369",
+        "38.409261"
+      ]
+    }
+  },
+  {
+    "caseId": "c0aac602-e92f-4997-ac70-a0cf66f597f1",
+    "type": "Other",
+    "address": {
+      "state": "Rhode Island",
+      "city": "Brookfield",
+      "street": "Fillmore Place",
+      "houseNo": 75
+    },
+    "openedAt": "Wed May 02 2018 18:05:30 GMT+0000",
+    "updatedAt": "Sun Apr 29 2018 04:33:48 GMT+0000",
+    "description": "Amet ad sit reprehenderit eu nostrud sint est laborum cillum reprehenderit proident duis cillum eiusmod.",
+    "requester": {
+      "firstName": "Bates",
+      "lastName": "Martin",
+      "age": 39,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (876) 463-2420"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (918) 427-3865"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.044317",
+        "38.473755"
+      ]
+    }
+  },
+  {
+    "caseId": "9397ad3d-39cc-4b71-b66d-8f00cd108dd3",
+    "type": "Broken Street Lamp",
+    "address": {
+      "state": "Federated States Of Micronesia",
+      "city": "Carlton",
+      "street": "Nelson Street",
+      "houseNo": 26
+    },
+    "openedAt": "Mon Apr 23 2018 03:51:28 GMT+0000",
+    "updatedAt": "Sat Apr 07 2018 04:46:18 GMT+0000",
+    "description": "Consectetur adipisicing reprehenderit fugiat adipisicing proident eu proident ea dolor nisi ipsum enim.",
+    "requester": {
+      "firstName": "Osborn",
+      "lastName": "Brock",
+      "age": 16,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (960) 477-2679"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (889) 503-2296"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.009406",
+        "38.385265"
+      ]
+    }
+  },
+  {
+    "caseId": "acc7acb1-9e7a-400f-be85-76e82819b234",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "Delaware",
+      "city": "Sidman",
+      "street": "Lawrence Avenue",
+      "houseNo": 2
+    },
+    "openedAt": "Tue Apr 24 2018 16:23:37 GMT+0000",
+    "updatedAt": "Thu Apr 05 2018 13:00:59 GMT+0000",
+    "description": "Cupidatat deserunt labore culpa in commodo commodo elit nisi.",
+    "requester": {
+      "firstName": "Kemp",
+      "lastName": "Hale",
+      "age": 45,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (859) 558-2417"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (883) 473-2624"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.993534",
+        "38.078872"
+      ]
+    }
+  },
+  {
+    "caseId": "f27cca2a-6650-44e2-b1d3-a9e899b76005",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "North Carolina",
+      "city": "Fivepointville",
+      "street": "Kaufman Place",
+      "houseNo": 21
+    },
+    "openedAt": "Wed Apr 11 2018 22:07:00 GMT+0000",
+    "updatedAt": "Tue Apr 10 2018 02:31:20 GMT+0000",
+    "description": "Officia ad deserunt Lorem in reprehenderit duis nisi consectetur exercitation velit cillum.",
+    "requester": {
+      "firstName": "Houston",
+      "lastName": "Case",
+      "age": 31,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (822) 486-2391"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (833) 425-2755"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.568533",
+        "38.471924"
+      ]
+    }
+  },
+  {
+    "caseId": "5808c210-7b83-4d3c-934e-6441824e6d12",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Colorado",
+      "city": "Ivanhoe",
+      "street": "Duryea Court",
+      "houseNo": 48
+    },
+    "openedAt": "Sat Apr 07 2018 03:50:38 GMT+0000",
+    "updatedAt": "Wed Apr 11 2018 14:27:06 GMT+0000",
+    "description": "Id dolor deserunt aliquip ad minim officia incididunt sint quis est ipsum exercitation.",
+    "requester": {
+      "firstName": "Mona",
+      "lastName": "Dudley",
+      "age": 50,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (999) 501-3808"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (830) 425-2664"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.838279",
+        "38.566087"
+      ]
+    }
+  },
+  {
+    "caseId": "b261355d-3e03-45c7-9a76-3b6dc9e295b2",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Pennsylvania",
+      "city": "Whitewater",
+      "street": "Brown Street",
+      "houseNo": 19
+    },
+    "openedAt": "Mon Apr 23 2018 09:10:15 GMT+0000",
+    "updatedAt": "Mon Apr 23 2018 23:20:14 GMT+0000",
+    "description": "Sit voluptate quis sunt mollit proident fugiat consectetur nisi deserunt.",
+    "requester": {
+      "firstName": "Burke",
+      "lastName": "Mcintyre",
+      "age": 35,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (895) 460-2531"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (841) 586-2063"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.80304",
+        "38.589349"
+      ]
+    }
+  },
+  {
+    "caseId": "63a3ef67-1b9d-4d0d-b505-39b78c198006",
+    "type": "Other",
+    "address": {
+      "state": "New Jersey",
+      "city": "Layhill",
+      "street": "Beverly Road",
+      "houseNo": 6
+    },
+    "openedAt": "Sun Apr 01 2018 05:36:47 GMT+0000",
+    "updatedAt": "Sun Apr 15 2018 07:00:04 GMT+0000",
+    "description": "Fugiat dolor anim ea consequat duis adipisicing.",
+    "requester": {
+      "firstName": "Tanner",
+      "lastName": "Greer",
+      "age": 37,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (816) 514-2077"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (893) 556-2830"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.399505",
+        "38.265061"
+      ]
+    }
+  },
+  {
+    "caseId": "e29d583c-10fc-4bf2-bfb7-70351c26f939",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "Marshall Islands",
+      "city": "Northchase",
+      "street": "Frost Street",
+      "houseNo": 82
+    },
+    "openedAt": "Wed Apr 18 2018 06:39:00 GMT+0000",
+    "updatedAt": "Wed Apr 11 2018 07:00:46 GMT+0000",
+    "description": "Exercitation consequat voluptate minim proident.",
+    "requester": {
+      "firstName": "Ilene",
+      "lastName": "Blanchard",
+      "age": 44,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (917) 544-2881"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (873) 568-2874"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.552637",
+        "38.359255"
+      ]
+    }
+  },
+  {
+    "caseId": "bef52f7a-4ba1-49db-813b-3ec6d69cf3c8",
+    "type": "Open Man Hole Cover",
+    "address": {
+      "state": "South Dakota",
+      "city": "Somerset",
+      "street": "Etna Street",
+      "houseNo": 36
+    },
+    "openedAt": "Fri Apr 27 2018 02:56:07 GMT+0000",
+    "updatedAt": "Sun Apr 08 2018 02:18:50 GMT+0000",
+    "description": "Ex irure aliqua veniam sit irure eiusmod anim deserunt do incididunt culpa aliqua ex.",
+    "requester": {
+      "firstName": "Petty",
+      "lastName": "Burns",
+      "age": 15,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (894) 453-2870"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (946) 498-3790"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.661608",
+        "38.263067"
+      ]
+    }
+  },
+  {
+    "caseId": "fa50f22f-41cc-4845-8781-5c471f8e63ff",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Texas",
+      "city": "Bakersville",
+      "street": "Knapp Street",
+      "houseNo": 88
+    },
+    "openedAt": "Tue Apr 10 2018 16:34:27 GMT+0000",
+    "updatedAt": "Tue May 01 2018 17:33:01 GMT+0000",
+    "description": "Sunt nostrud officia velit tempor nostrud laboris.",
+    "requester": {
+      "firstName": "Virginia",
+      "lastName": "Larson",
+      "age": 38,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (963) 515-3793"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (931) 532-2820"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.87126",
+        "38.266531"
+      ]
+    }
+  },
+  {
+    "caseId": "38dc5148-57ff-4c9e-ad7b-e2eea7a646d7",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Guam",
+      "city": "Waiohinu",
+      "street": "George Street",
+      "houseNo": 13
+    },
+    "openedAt": "Wed Apr 18 2018 08:35:29 GMT+0000",
+    "updatedAt": "Sat Apr 28 2018 19:16:25 GMT+0000",
+    "description": "Quis eu minim nisi sit dolore sunt deserunt incididunt velit consectetur.",
+    "requester": {
+      "firstName": "Willie",
+      "lastName": "Neal",
+      "age": 16,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (905) 575-3267"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (874) 458-2108"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.09771",
+        "38.009335"
+      ]
+    }
+  },
+  {
+    "caseId": "0dd9d6dd-c7fc-48d4-96c6-ef7b4c726853",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Georgia",
+      "city": "Ola",
+      "street": "Bassett Avenue",
+      "houseNo": 88
+    },
+    "openedAt": "Fri Apr 13 2018 00:26:29 GMT+0000",
+    "updatedAt": "Tue Apr 10 2018 11:34:39 GMT+0000",
+    "description": "Adipisicing in nisi veniam velit eiusmod deserunt cillum.",
+    "requester": {
+      "firstName": "Schwartz",
+      "lastName": "Salas",
+      "age": 26,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (854) 573-3427"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (903) 581-2175"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.075396",
+        "37.828583"
+      ]
+    }
+  },
+  {
+    "caseId": "18b160d9-ccd8-4080-8c2c-c937157bab0e",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Connecticut",
+      "city": "Noxen",
+      "street": "Bragg Court",
+      "houseNo": 72
+    },
+    "openedAt": "Thu Apr 12 2018 19:26:20 GMT+0000",
+    "updatedAt": "Sat Apr 28 2018 21:18:36 GMT+0000",
+    "description": "Adipisicing laborum laboris duis anim.",
+    "requester": {
+      "firstName": "Stevens",
+      "lastName": "Peck",
+      "age": 29,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (860) 600-2169"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (833) 402-2101"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.420926",
+        "38.107577"
+      ]
+    }
+  },
+  {
+    "caseId": "00461b1c-685d-48f3-b535-dcfeb8c864f4",
+    "type": "Other",
+    "address": {
+      "state": "South Carolina",
+      "city": "Dunbar",
+      "street": "Henry Street",
+      "houseNo": 30
+    },
+    "openedAt": "Thu Apr 26 2018 03:43:48 GMT+0000",
+    "updatedAt": "Thu Apr 26 2018 04:52:42 GMT+0000",
+    "description": "Cupidatat elit do aliquip incididunt ad non voluptate in exercitation laboris proident.",
+    "requester": {
+      "firstName": "Cochran",
+      "lastName": "Woods",
+      "age": 16,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (944) 515-3949"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (976) 548-2919"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.859936",
+        "37.913536"
+      ]
+    }
+  },
+  {
+    "caseId": "d31b577b-4e41-449d-95db-014913bcdc2a",
+    "type": "Dead Animal",
+    "address": {
+      "state": "Arizona",
+      "city": "Florence",
+      "street": "Glenwood Road",
+      "houseNo": 33
+    },
+    "openedAt": "Thu Apr 05 2018 13:37:12 GMT+0000",
+    "updatedAt": "Tue Apr 17 2018 08:55:37 GMT+0000",
+    "description": "Aute anim elit et exercitation adipisicing.",
+    "requester": {
+      "firstName": "Ewing",
+      "lastName": "Campos",
+      "age": 18,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (814) 417-3220"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (930) 557-2820"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.265837",
+        "38.106322"
+      ]
+    }
+  },
+  {
+    "caseId": "6eefa943-00cd-4ea8-ab3b-d509bfe45a87",
+    "type": "Other",
+    "address": {
+      "state": "Kansas",
+      "city": "Hoagland",
+      "street": "Lott Place",
+      "houseNo": 10
+    },
+    "openedAt": "Fri Apr 27 2018 17:17:42 GMT+0000",
+    "updatedAt": "Wed Apr 04 2018 01:26:01 GMT+0000",
+    "description": "Do commodo incididunt irure aliquip reprehenderit reprehenderit esse cupidatat cillum officia aliqua nostrud.",
+    "requester": {
+      "firstName": "Finch",
+      "lastName": "Munoz",
+      "age": 29,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (860) 517-3208"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (944) 545-3281"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.24909",
+        "38.184126"
+      ]
+    }
+  },
+  {
+    "caseId": "26497405-740e-4fc4-bea4-cf3e86c00e22",
+    "type": "Missing Sign",
+    "address": {
+      "state": "Kentucky",
+      "city": "Kapowsin",
+      "street": "Tompkins Avenue",
+      "houseNo": 23
+    },
+    "openedAt": "Sat Apr 21 2018 08:11:52 GMT+0000",
+    "updatedAt": "Sun Apr 01 2018 00:58:23 GMT+0000",
+    "description": "Excepteur ipsum exercitation culpa ad irure aliquip pariatur minim aliquip laboris.",
+    "requester": {
+      "firstName": "Nadia",
+      "lastName": "Sanford",
+      "age": 28,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (978) 500-2821"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (812) 498-2968"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.39425",
+        "38.441636"
+      ]
+    }
+  },
+  {
+    "caseId": "5fa35aeb-8a70-4fe1-ab87-3e09c7597766",
+    "type": "Fallen Tree",
+    "address": {
+      "state": "Wisconsin",
+      "city": "Robbins",
+      "street": "Lincoln Road",
+      "houseNo": 22
+    },
+    "openedAt": "Mon Apr 09 2018 13:36:56 GMT+0000",
+    "updatedAt": "Sun Apr 15 2018 18:43:53 GMT+0000",
+    "description": "Officia proident culpa nulla ad magna ea amet tempor excepteur in.",
+    "requester": {
+      "firstName": "Noel",
+      "lastName": "Oconnor",
+      "age": 18,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (950) 561-2278"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (842) 489-3164"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.936381",
+        "37.836892"
+      ]
+    }
+  },
+  {
+    "caseId": "1443dd84-0c8a-4edf-ab51-c8972aec1d9f",
+    "type": "Other",
+    "address": {
+      "state": "New Mexico",
+      "city": "Topanga",
+      "street": "Pooles Lane",
+      "houseNo": 75
+    },
+    "openedAt": "Fri Apr 20 2018 03:10:18 GMT+0000",
+    "updatedAt": "Fri Apr 27 2018 13:41:49 GMT+0000",
+    "description": "Non laborum ex veniam aliquip duis nisi.",
+    "requester": {
+      "firstName": "Lesley",
+      "lastName": "Gomez",
+      "age": 21,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (831) 486-2256"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (855) 522-3274"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.163628",
+        "38.1576"
+      ]
+    }
+  },
+  {
+    "caseId": "a744f194-ec5d-4b67-a941-c8c3b620505e",
+    "type": "Other",
+    "address": {
+      "state": "North Dakota",
+      "city": "Foxworth",
+      "street": "Bushwick Place",
+      "houseNo": 82
+    },
+    "openedAt": "Sat Apr 14 2018 02:23:28 GMT+0000",
+    "updatedAt": "Tue Apr 10 2018 04:37:40 GMT+0000",
+    "description": "Tempor sint enim sunt proident veniam et labore id id.",
+    "requester": {
+      "firstName": "Robbins",
+      "lastName": "Mcdonald",
+      "age": 37,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (870) 430-2098"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (803) 508-3326"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.996425",
+        "37.990426"
+      ]
+    }
+  },
+  {
+    "caseId": "b8c4162a-920b-4223-92c9-a52eafc81f5a",
+    "type": "Obstructed Parking",
+    "address": {
+      "state": "Louisiana",
+      "city": "Longbranch",
+      "street": "Bokee Court",
+      "houseNo": 12
+    },
+    "openedAt": "Wed May 02 2018 13:22:00 GMT+0000",
+    "updatedAt": "Tue Apr 17 2018 16:41:13 GMT+0000",
+    "description": "Laboris excepteur laborum ad adipisicing veniam enim sit cupidatat.",
+    "requester": {
+      "firstName": "Woodard",
+      "lastName": "Cooper",
+      "age": 28,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (812) 537-3675"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (904) 516-2420"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.446865",
+        "37.870277"
+      ]
+    }
+  },
+  {
+    "caseId": "0d49f01b-e844-47d2-8fa8-bcf78b11fb89",
+    "type": "Other",
+    "address": {
+      "state": "Oregon",
+      "city": "Umapine",
+      "street": "Provost Street",
+      "houseNo": 30
+    },
+    "openedAt": "Sat Apr 14 2018 13:27:21 GMT+0000",
+    "updatedAt": "Sun Apr 08 2018 11:20:03 GMT+0000",
+    "description": "Cillum aliquip ullamco ut labore ut ex officia qui.",
+    "requester": {
+      "firstName": "Collins",
+      "lastName": "Vang",
+      "age": 15,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (939) 550-3381"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (854) 504-3414"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.154312",
+        "37.948838"
+      ]
+    }
+  },
+  {
+    "caseId": "b2f07554-c1d4-43dc-baa4-19f7b260b664",
+    "type": "Dead Animal",
+    "address": {
+      "state": "Alabama",
+      "city": "Hondah",
+      "street": "Nichols Avenue",
+      "houseNo": 98
+    },
+    "openedAt": "Sat Apr 14 2018 14:53:05 GMT+0000",
+    "updatedAt": "Sun Apr 15 2018 19:57:41 GMT+0000",
+    "description": "Aliqua officia veniam veniam sunt dolor excepteur tempor aliquip.",
+    "requester": {
+      "firstName": "Carissa",
+      "lastName": "Walker",
+      "age": 28,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (933) 471-2000"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (865) 419-2137"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.153422",
+        "38.263283"
+      ]
+    }
+  },
+  {
+    "caseId": "69c7ec21-5aea-4fb9-bb68-a321465bda6f",
+    "type": "Dead Animal",
+    "address": {
+      "state": "West Virginia",
+      "city": "Cataract",
+      "street": "Essex Street",
+      "houseNo": 15
+    },
+    "openedAt": "Sun Apr 01 2018 19:55:17 GMT+0000",
+    "updatedAt": "Sat Apr 07 2018 14:37:19 GMT+0000",
+    "description": "Duis quis enim aliqua incididunt irure amet quis sit eiusmod non eu anim eiusmod.",
+    "requester": {
+      "firstName": "Whitney",
+      "lastName": "Savage",
+      "age": 32,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (976) 411-3195"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (934) 459-2013"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.267041",
+        "37.988606"
+      ]
+    }
+  },
+  {
+    "caseId": "37553f5d-b9cc-4f43-83f0-32b533267506",
+    "type": "Dead Animal",
+    "address": {
+      "state": "Florida",
+      "city": "Riner",
+      "street": "Dunne Court",
+      "houseNo": 71
+    },
+    "openedAt": "Fri Apr 13 2018 19:46:54 GMT+0000",
+    "updatedAt": "Wed Apr 25 2018 19:53:29 GMT+0000",
+    "description": "Ullamco est minim ad eu.",
+    "requester": {
+      "firstName": "Ethel",
+      "lastName": "Stevenson",
+      "age": 24,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (878) 558-3840"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (948) 524-3699"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.81207",
+        "38.426374"
+      ]
+    }
+  },
+  {
+    "caseId": "90142b94-0bb6-4172-a852-206b4ff8ab86",
+    "type": "Other",
+    "address": {
+      "state": "Nebraska",
+      "city": "Fostoria",
+      "street": "Thames Street",
+      "houseNo": 58
+    },
+    "openedAt": "Sat Apr 21 2018 23:38:12 GMT+0000",
+    "updatedAt": "Mon Apr 23 2018 13:54:18 GMT+0000",
+    "description": "Culpa sit qui elit proident cillum Lorem quis.",
+    "requester": {
+      "firstName": "Buck",
+      "lastName": "Noel",
+      "age": 19,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (859) 599-3753"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (819) 482-3001"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.979539",
+        "37.894833"
+      ]
+    }
+  },
+  {
+    "caseId": "71298bea-86e2-41bd-a58c-c97c47426199",
+    "type": "Other",
+    "address": {
+      "state": "Minnesota",
+      "city": "Orviston",
+      "street": "Bragg Street",
+      "houseNo": 53
+    },
+    "openedAt": "Wed Apr 25 2018 14:45:20 GMT+0000",
+    "updatedAt": "Tue May 01 2018 02:16:43 GMT+0000",
+    "description": "Officia dolor non sunt occaecat.",
+    "requester": {
+      "firstName": "Darlene",
+      "lastName": "Fisher",
+      "age": 34,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (862) 484-3413"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (964) 451-3656"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.466863",
+        "38.51405"
+      ]
+    }
+  },
+  {
+    "caseId": "9cd123b3-41ec-46cd-9b9b-58c78e37ced1",
+    "type": "Other",
+    "address": {
+      "state": "Arkansas",
+      "city": "Westphalia",
+      "street": "Durland Place",
+      "houseNo": 67
+    },
+    "openedAt": "Sun Apr 01 2018 16:10:09 GMT+0000",
+    "updatedAt": "Sun Apr 29 2018 11:56:41 GMT+0000",
+    "description": "Officia dolor culpa ad laborum pariatur aliqua aute aute sunt cillum dolore proident aliqua eiusmod.",
+    "requester": {
+      "firstName": "Livingston",
+      "lastName": "Meadows",
+      "age": 31,
+      "gender": "F"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (935) 535-2857"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (825) 540-3174"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-121.94554",
+        "38.466393"
+      ]
+    }
+  },
+  {
+    "caseId": "e9397007-f511-4b34-ab70-21b0fbc6e3da",
+    "type": "Broken Street Lamp",
+    "address": {
+      "state": "Tennessee",
+      "city": "Eureka",
+      "street": "Holmes Lane",
+      "houseNo": 55
+    },
+    "openedAt": "Thu Apr 19 2018 07:31:24 GMT+0000",
+    "updatedAt": "Mon Apr 16 2018 08:22:33 GMT+0000",
+    "description": "Magna et anim incididunt incididunt cillum nostrud anim est pariatur.",
+    "requester": {
+      "firstName": "Pauline",
+      "lastName": "Ashley",
+      "age": 32,
+      "gender": "O"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (951) 590-2185"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (959) 554-2347"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.079667",
+        "38.002196"
+      ]
+    }
+  },
+  {
+    "caseId": "92479c9a-5f68-4ac8-9c8e-21fb9b2cc94e",
+    "type": "Other",
+    "address": {
+      "state": "California",
+      "city": "Chemung",
+      "street": "Temple Court",
+      "houseNo": 11
+    },
+    "openedAt": "Wed Apr 25 2018 22:48:09 GMT+0000",
+    "updatedAt": "Sat Apr 07 2018 18:11:40 GMT+0000",
+    "description": "Anim nostrud consectetur nisi duis.",
+    "requester": {
+      "firstName": "Christa",
+      "lastName": "Ballard",
+      "age": 29,
+      "gender": "M"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "+1 (801) 545-3727"
+      },
+      {
+        "type": "fax",
+        "number": "+1 (808) 544-2998"
+      }
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        "-122.448855",
+        "38.420602"
+      ]
+    }
+  }
+]

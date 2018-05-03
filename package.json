@@ -1,0 +1,14 @@
+{
+  "name": "wtmbjsa-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Armagan Amcalar <armagan@amcalar.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.0.17"
+  }
+}
